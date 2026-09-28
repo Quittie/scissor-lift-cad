@@ -14,7 +14,7 @@ The model has a base, an upper bracket, articulated arms, pivot connections and 
 
 | Raised position | Lower position |
 | --- | --- |
-| ![Lift raised](media/lift-raised.png) | ![Lift lowered](media/lift-lowered.png) |
+| ![Lift raised](media/lift-raised-clean.png) | ![Lift lowered](media/lift-lowered-clean.png) |
 
 ## CAD files
 
