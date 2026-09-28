@@ -1,18 +1,20 @@
 # Scissor Lift Mechanism — Autodesk Inventor CAD
 
-![Scissor lift assembly in a raised position](media/lift-raised.png)
+![Inventor animation of the scissor lift moving](media/scissor-lift-motion.gif)
 
 **Personal CAD project · Piotr Trusiewicz · February 2025**
 
 I designed this scissor-lift mechanism in Autodesk Inventor Professional 2025. I used my general understanding of how this type of lift works, rather than recreating a particular existing CAD model. The aim was to make a multi-part assembly whose linked arms could move between lower and higher positions.
 
-[Watch the Inventor motion recording](media/scissor-lift-motion.mp4)
+[Small MP4 version](media/scissor-lift-motion-web.mp4) · [Original full-resolution recording](media/scissor-lift-motion.mp4)
 
 ## Design
 
 The model has a base, an upper bracket, articulated arms, pivot connections and a hand crank. As the arms change angle, the upper bracket changes height. I modelled the parts and assembled them in Inventor, then checked the movement in the CAD environment. The recording shows the assembly moving through different positions; it is a CAD demonstration, not a test of a physical lift.
 
-![Scissor lift assembly in a lower position](media/lift-lowered.png)
+| Raised position | Lower position |
+| --- | --- |
+| ![Lift raised](media/lift-raised.png) | ![Lift lowered](media/lift-lowered.png) |
 
 ## CAD files
 
